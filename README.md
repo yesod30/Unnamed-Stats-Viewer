@@ -7,7 +7,7 @@ You can find the latest version [here](https://github.com/yesod30/Unnamed-Stats-
 - Automatically get the statistics for all the player and for the teams in the current match. For cross-server clan battles, only the currently selected region partecipants will be shown. Players with hidden statistics will not be shown.
   - Shown Statistics are Win rate, Battles, Average Damage, Kill/Death Ration and XP.
     - XP is base XP plus premium account modifier, since Wargaming API doesn't give a way to get the true base XP.
-  - Team stats are **weighted** averages on the number of battles. This means that more battles a player has, the more influence it will have over the average. This is to minimize the effects of outliers having a really low number of games.
+  - Team stats are **weighted** averages on the number of battles. This means that the more battles a player has, the more influence it will have over the average. This is to minimize the effects of outliers having a really low number of games.
 - Customization of the various color treshold for the different stats.
 - Automatically detect Updates. Automatic update coming soon (TM).
 
