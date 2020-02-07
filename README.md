@@ -16,4 +16,4 @@ You can find the latest version [here](https://github.com/yesod30/Unnamed-Stats-
 - Add ability to use wows-numbers treshold as color treshold.
 
 ## Bug reports
-To report a bug you can either open a new issue [here](https://github.com/yesod30/Unnamed-Stats-Viewer/issues), or write to me on Discord (Yesod30#3558). In both cases, please attach the crash report you can find in the program folder inside Roaming. To Access the Roaming folder, open the start menu, type "%appdata%" and press enter.
+To report a bug you can either open a new issue [here](https://github.com/yesod30/Unnamed-Stats-Viewer/issues), or write to me on Discord (Yesod30#3558). In both cases, please attach the crash report you can find in the program folder (called DK.Warships.Viewer) inside Roaming. To Access the Roaming folder, open the start menu, type "%appdata%" and press enter.
