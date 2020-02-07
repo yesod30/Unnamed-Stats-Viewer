@@ -2,6 +2,7 @@
 Public repo for Unnamed Stats Viewer, a World of Warship Matchmaking Monitor with a minimalistic look.
 This repo will be used both for Updates and Bug reports.
 You can find the latest version [here](https://github.com/yesod30/Unnamed-Stats-Viewer/releases/latest).
+**WARNING**: your antivirus could recognize this as a virus. It's a false positive, since it's missing the Microsoft developer signing.
 
 ## Current Features
 - Automatically get the statistics for all the player and for the teams in the current match. For cross-server clan battles, only the currently selected region partecipants will be shown. Players with hidden statistics will not be shown.
