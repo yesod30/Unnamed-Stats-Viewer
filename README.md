@@ -1,7 +1,7 @@
 # Unnamed-Stats-Viewer
 Public repo for Unnamed Stats Viewer, a World of Warship Matchmaking Monitor with a minimalistic look.
 This repo will be used both for Updates and Bug reports.
-You can find the latest version [here](https://github.com/yesod30/Unnamed-Stats-Viewer/releases/latest)
+You can find the latest version [here](https://github.com/yesod30/Unnamed-Stats-Viewer/releases/latest).
 
 ## Current Features
 - Automatically get the statistics for all the player and for the teams in the current match. For cross-server clan battles, only the currently selected region partecipants will be shown. Players with hidden statistics will not be shown.
@@ -9,6 +9,7 @@ You can find the latest version [here](https://github.com/yesod30/Unnamed-Stats-
     - XP is base XP plus premium account modifier, since Wargaming API doesn't give a way to get the true base XP.
   - Team stats are **weighted** averages on the number of battles. This means that the more battles a player has, the more influence it will have over the average. This is to minimize the effects of outliers having a really low number of games.
 - Customization of the various color treshold for the different stats.
+- Ability to open the wows-numbers page of a player by clicking on his name.
 - Automatically detect Updates. Automatic update coming soon (TM).
 
 ## Features to be implemented
