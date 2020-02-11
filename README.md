@@ -11,7 +11,7 @@ You can find the latest version [here](https://github.com/yesod30/Unnamed-Stats-
   - Team stats are **weighted** averages on the number of battles. This means that the more battles a player has, the more influence it will have over the average. This is to minimize the effects of outliers having a really low number of games.
 - Customization of the various color treshold for the different stats.
 - Ability to open the wows-numbers page of a player by clicking on his name.
-- Automatically detect Updates. Automatic update coming soon (TM).
+- Automatically detect Updates. Automatic update download is disabled by default, to avoid problems with folder permissions.
 
 ## Features to be implemented
 - Add PR to the stats
